@@ -1,5 +1,5 @@
 data/
-.avito_model_78%.pkl
-.avito_model_88%.pkl
+.avito_model_78%
+.avito_model_88%
 catboost_info/
-.EDA и тесты.ipynb
+.EDA и тесты
